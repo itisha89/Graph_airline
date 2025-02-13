@@ -70,3 +70,7 @@ Based on the analysis, we suggest the following:
 - Further study is recommended to understand the importance of incoming nodes to ATL, as factors such as traffic (passenger and cargo), competitiveness, and physical capacity may influence the decision.
   
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
